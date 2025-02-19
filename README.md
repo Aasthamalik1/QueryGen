@@ -19,7 +19,7 @@ Before installing, make sure you have the following dependencies:
 
 ### Steps to Install
 
-1. Clone this repository to your local machine:
+
    ```bash
    git clone https://github.com/Aasthamalik1/QueryGen
    cd QueryGen
